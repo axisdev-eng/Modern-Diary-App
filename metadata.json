@@ -1,0 +1,5 @@
+{
+  "name": "Aura Diary",
+  "description": "A high-end, glassmorphism diary with sentiment analysis, mood heatmaps, and secret vaults.",
+  "requestFramePermissions": ["microphone"]
+}
