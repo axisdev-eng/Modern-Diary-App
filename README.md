@@ -1,100 +1,105 @@
 
+A modern diary app.
 
-<p align="center">
-<font size="6"><strong>✨ A modern digital journal that understands you.</strong></font>
-
-
-<font size="7"><i>Uses AI to detect mood with visuals and sound.</i></font>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-⚙️ <font size="10" color="#3178C6">Technologies</font>
-
-
-💻 React + Vite — <font color="#61DAFB">Frontend Framework</font>
-
-🛡️ TypeScript — <font color="#3178C6">Type Safety</font>
-
-✨ Framer Motion — <font color="#E91E63">Smooth Animations</font>
-
-🎨 Tailwind CSS — <font color="#06B6D4">Modern Styling</font>
-
-📦 Zustand — <font color="#443E38">State Management via store.ts</font>
+A modern digital journal that understands you. Uses AI to detect momood with visuals and sound.
 
 
 
-🚀 <font size="10" color="#E91E63">Features</font>
+## Authors
 
-
-🧠 TherapistChat
-Interactive AI guidance to help navigate complex thoughts.
-
-🎭 Stickers and Audio
-Use custom stickers in notes based on your mood. After the mood is detected, music plays accordingly.
-
-📋 DailyAIReport
-Automated summarization of your daily notes.
-
-⏳ Timeline View
-A clean, organized history of your notes.
-
-🎬 GIF Integration
-Uses GIPHY to allow users to insert expressive GIFs.
-
-⚙️ Profile Customization
-Profile icon and bio may be changed at any time.
-
-📷 Media Upload
-You can upload and store your own images as well.
+- @axisdev-eng(
+    
+https://github.com/axisdev-eng)
 
 
 
-🚦 <font size="1o" color="#8117BB">Running the Project</font>
-
-🔑 Prerequisites
-Ensure Node.js is installed.
+## 🚀 About Me
+I'm a frontend dev who likes coding mini projects for fun!
 
 
-✅ Step 1: Clone the Repository
-Bash
-git clone https://github.com/yourusername/aura-diary.git
+## Features
 
-
-✍️ Step 2: Install Dependencies
-Bash
-npm install
-
-
-⚠️ Step 3: Configure Environment
-Set the GEMINI_API_KEY in .env.local to your Gemini API key.
+TherapistChat: Interactive AI guidance to help navigate complex thoughts.
 
 
 
-▶️ Step 4: Launch the App
-Bash
-npm run dev
+Stickers and Audio: You can use custom stickers in notes based on your mood. After the mood is detected, music
 
-📜 <font size="7" color="#B51313">Usage & Licensing</font>
+will play according to the mood.
+
+
+
+DailyAIReport: Automated summarization of your daily notes
+
+
+
+Timeline View: A clean, organized history of your notes.
+
+
+
+GIF intergration: Uses GIPHY to allow users insert gifs.
+
+
+
+Profile customization: Profile icon and bio may be changed.
+
+
+
+Media upload: You can upload your own images as well.
 
 
 
 
-[!CAUTION]
-Proprietary & Restricted License
+## Screenshots
 
-This project is under a restricted license. Commercial Use / App Creation: You must obtain explicit written permission before using this source code to build or launch a public application.
+![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
+
+Soon!
+## API Reference
+
+#### Get all items
+
+```http
+  Get GEMINI_API_KEY
+```
 
 
 
-➡️ Contact for Licensing
+```http
+  GET GIPHY_API_KEY
+
+  
+```
 
 
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="20" /> GitHub: Open an Issue with the tag [Licensing]
+## Contributing
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="20" /> Discord: axis.dev_
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+
+
+
+## Installation
+
+🚦 Running the Project
+
+Clone the reportisotry.
+
+1. Install dependencies:
+
+   `npm install`
+
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+
+3. Run the app:
+
+   `npm run dev`
+    
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
