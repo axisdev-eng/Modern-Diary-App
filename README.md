@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/render?type=transparent&color=auto&height=200&section=header&text=AuraDiary&fontSize=90&animation=fadeIn" alt="AuraDiary Header" />
-</p>
+
 
 <p align="center">
 <font size="6"><strong>✨ A modern digital journal that understands you.</strong></font>
@@ -17,6 +15,8 @@
 </p>
 
 ⚙️ <font size="7" color="#3178C6">Technologies</font>
+
+
 💻 React + Vite — <font color="#61DAFB">Frontend Framework</font>
 
 🛡️ TypeScript — <font color="#3178C6">Type Safety</font>
@@ -28,6 +28,8 @@
 📦 Zustand — <font color="#443E38">State Management via store.ts</font>
 
 🚀 <font size="7" color="#E91E63">Features</font>
+
+
 🧠 TherapistChat
 Interactive AI guidance to help navigate complex thoughts.
 
@@ -50,28 +52,41 @@ Profile icon and bio may be changed at any time.
 You can upload and store your own images as well.
 
 🚦 <font size="7" color="#8117BB">Running the Project</font>
+
 🔑 Prerequisites
 Ensure Node.js is installed.
+
 
 ✅ Step 1: Clone the Repository
 Bash
 git clone https://github.com/yourusername/aura-diary.git
+
+
 ✍️ Step 2: Install Dependencies
 Bash
 npm install
+
+
 ⚠️ Step 3: Configure Environment
 Set the GEMINI_API_KEY in .env.local to your Gemini API key.
+
+
 
 ▶️ Step 4: Launch the App
 Bash
 npm run dev
+
 📜 <font size="7" color="#B51313">Usage & Licensing</font>
+
+
 [!CAUTION]
 Proprietary & Restricted License
 
 This project is under a restricted license. Commercial Use / App Creation: You must obtain explicit written permission before using this source code to build or launch a public application.
 
 ➡️ Contact for Licensing
+
+
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="20" /> GitHub: Open an Issue with the tag [Licensing]
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="20" /> Discord: [Your Discord Tag]
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="20" /> Discord: axis.dev_
