@@ -4,7 +4,7 @@
 <font size="6"><strong>✨ A modern digital journal that understands you.</strong></font>
 
 
-<font size="4"><i>Uses AI to detect mood with visuals and sound.</i></font>
+<font size="7"><i>Uses AI to detect mood with visuals and sound.</i></font>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-⚙️ <font size="7" color="#3178C6">Technologies</font>
+⚙️ <font size="10" color="#3178C6">Technologies</font>
 
 
 💻 React + Vite — <font color="#61DAFB">Frontend Framework</font>
@@ -27,7 +27,9 @@
 
 📦 Zustand — <font color="#443E38">State Management via store.ts</font>
 
-🚀 <font size="7" color="#E91E63">Features</font>
+
+
+🚀 <font size="10" color="#E91E63">Features</font>
 
 
 🧠 TherapistChat
@@ -51,7 +53,9 @@ Profile icon and bio may be changed at any time.
 📷 Media Upload
 You can upload and store your own images as well.
 
-🚦 <font size="7" color="#8117BB">Running the Project</font>
+
+
+🚦 <font size="1o" color="#8117BB">Running the Project</font>
 
 🔑 Prerequisites
 Ensure Node.js is installed.
@@ -79,10 +83,14 @@ npm run dev
 📜 <font size="7" color="#B51313">Usage & Licensing</font>
 
 
+
+
 [!CAUTION]
 Proprietary & Restricted License
 
 This project is under a restricted license. Commercial Use / App Creation: You must obtain explicit written permission before using this source code to build or launch a public application.
+
+
 
 ➡️ Contact for Licensing
 
