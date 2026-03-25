@@ -14,7 +14,8 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-<img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" width="40" /> 🛠️ Technologies
+<img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" width="40" /> Technologies
+<br>
 <font size="6" color="#61DAFB">💻 React + Vite</font>
 The core frontend framework for a lightning-fast user experience.
 
@@ -27,7 +28,8 @@ High-end, smooth animations for every interaction.
 <font size="6" color="#06B6D4">🎨 Tailwind CSS</font>
 Clean, professional, and minimalist styling.
 
-<img src="https://cdn-icons-png.flaticon.com/512/1162/1162456.png" width="40" /> 🚀 Features
+<img src="https://cdn-icons-png.flaticon.com/512/1162/1162456.png" width="40" /> Features
+<br>
 🧠 TherapistChat
 Interactive AI guidance to help navigate complex thoughts and emotional blocks.
 
@@ -69,7 +71,7 @@ Launch
 
 Bash
 npm run dev
-<img src="https://cdn-icons-png.flaticon.com/512/2822/2822687.png" width="40" /> 📜 Usage & Licensing
+<img src="https://cdn-icons-png.flaticon.com/512/2822/2822687.png" width="40" /> Usage & Licensing
 [!CAUTION]
 
 <font size="6">RESTRICTED LICENSE</font>
@@ -78,6 +80,6 @@ Commercial Use / App Creation: You must obtain explicit written permission befor
 
 How to Reach Me:
 
-💬 Discord: [Your Discord Tag]
+💬 Discord: axis.dev_
 
 📧 GitHub: Open an Issue with the tag [Licensing]
