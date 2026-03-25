@@ -1,8 +1,3 @@
-I have revamped your README to meet your specific formatting and visual requests.
-
-This version uses HTML <h1> and <h2> tags for massively increased font sizes, sets unique colors for headings (Blue, Purple, Pink, Green, Red), forces a different font stack (Montserrat), integrates the smaller icons from your reference image, and adds CSS-based animations for the entire document and specific header icons.
-
-Copy and paste this into your README.md:
 
 <style>
 /* CSS Reset for consistent display */
@@ -42,6 +37,7 @@ h1, h2 { font-family: 'Montserrat', sans-serif !important; }
 
 
 <font color="#3178C6" size="10"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="50" class="pulsing-icon" /> Technologies</font>
+<br>
 💻 React + Vite — <font color="#61DAFB">Frontend Framework</font>
 
 🛡️ TypeScript — <font color="#3178C6">Type Safety</font>
@@ -57,24 +53,25 @@ h1, h2 { font-family: 'Montserrat', sans-serif !important; }
 
 
 <font color="#E91E63" size="10"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="50" class="pulsing-icon" /> Features</font>
+<br>
 <font color="#555">🧠 TherapistChat</font>
 Interactive AI guidance to help navigate complex thoughts.
-
+<br>
 <font color="#555">🎭 Stickers and Audio</font>
 Use custom stickers in notes based on your mood. After the mood is detected, music plays accordingly.
-
+<br>
 <font color="#555">📋 DailyAIReport</font>
 Automated summarization of your daily notes.
-
+<br>
 <font color="#555">⏳ Timeline View</font>
 A clean, organized history of your notes.
-
+<br>
 <font color="#555">🎬 GIF Integration</font>
 Uses GIPHY to allow users to insert expressive GIFs.
-
+<br>
 <font color="#555">⚙️ Profile Customization</font>
 Profile icon and bio may be changed at any time.
-
+<br>
 <font color="#555">📷 Media Upload</font>
 You can upload and store your own images as well.
 
