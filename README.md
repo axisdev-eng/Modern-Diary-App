@@ -1,15 +1,6 @@
-
-
-This contains everything you need to run your app locally.
-
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+<p align="center"><img src="https://skillicons.dev/icons?i=react,vite,ts,tailwind,framer,github" /></p>A modern digital journal that understands you. AuraDiary leverages the Gemini API to transform static notes into an interactive, multi-sensory experience by syncing your mood with visuals and sound.🛠️ Tech StackFeatureTechnologyFrontendReact + ViteLogicTypeScriptAnimationsFramer MotionStylingTailwind CSSStateZustand (store.ts)🚀 Key Features🧠 TherapistChat — Interactive AI guidance to help navigate complex thoughts and emotional blocks.🎭 Stickers & Audio — Custom stickers adapt to your vibe. Once your mood is detected, the WaveformPlayer triggers music synced to your emotional state.📝 DailyAIReport — Automated summarization that turns long-form daily notes into actionable insights.⏳ Timeline View — A sleek, organized chronological history of your journey.🖼️ Media & Giphy — Full integration with GIPHY for expressive GIF usage + local media upload support.👤 Customization — Personalize your presence with dynamic profile icons and bios.🚦 Setup & InstallationPrerequisites: Node.js installed on your machine.Clone the RepositoryBashgit clone https://github.com/yourusername/aura-diary.git
+cd aura-diary
+Install DependenciesBashnpm install
+Configure EnvironmentSet your GEMINI_API_KEY in .env.local:Code snippetVITE_GEMINI_API_KEY=your_api_key_here
+Launch the AppBashnpm run dev
+📜 Usage & Licensing[!CAUTION]RESTRICTED LICENSEThis project is for personal and educational use only. Commercial Use or App Creation (launching a public version of this code) is strictly prohibited without prior written consent.Contact for Permissions:GitHub: Open an Issue with the tag [Licensing]Discord: [Your Discord Tag]
